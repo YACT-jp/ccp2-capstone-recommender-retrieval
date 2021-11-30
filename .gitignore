@@ -1,0 +1,5 @@
+# VS Code Configurations
+.vscode/
+
+# Jupyter Lab checkpoints
+src/.ipynb_checkpoints/
